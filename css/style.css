@@ -2,8 +2,6 @@ body {
   text-align: center;
   font-family: Verdana;
   background-color: black;
-  margin-left: 125px;
-  margin-right: 125px;
 }
 
 
@@ -11,6 +9,7 @@ body {
   font-weight: normal;
   font-size: 50px;
   color: white;
+  font-weight: bold;
 }
 
 .links {
@@ -21,6 +20,7 @@ body {
 .subHeading {
   color: white;
   font-size: 42px;
+  font-weight: bold;
 }
 
 #info {
