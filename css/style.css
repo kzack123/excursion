@@ -2,6 +2,8 @@ body {
   text-align: center;
   font-family: Verdana;
   background-color: black;
+  margin-left: 125px;
+  margin-right: 125px;
 }
 
 
@@ -11,7 +13,23 @@ body {
   color: white;
 }
 
-.link {
+.links {
   color: Aquamarine;
   font-size: 16px;
+}
+
+.subHeading {
+  color: white;
+  font-size: 42px;
+}
+
+#info {
+  color: gray;
+  font-size: 21px;
+}
+
+#copyright {
+  color: gray;
+  text-align: right;
+  font-size: 21px;
 }
